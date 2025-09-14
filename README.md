@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alitekce2005/alitekce2005/raw/main/profile-banner.png" alt="Ali TEKÇE Banner" />
+  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/profile-banner.png" alt="Ali TEKÇE Banner" width="100%" />
 </p>
 
 # 👋 Merhaba, Ben Ali TEKÇE
@@ -10,7 +10,9 @@
 
 ---
 
-## 🧑‍💼 Hakkımda / About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF00&width=600&lines=🧑‍💼+Hakkımda+%2F+About+Me" alt="Hakkımda Typing"/>
+</p>
 
 Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirme bölümünde 2. sınıf öğrencisiyim. Yazılım dünyasında öğrenmeye ve üretmeye büyük bir tutkuyla bağlıyım.  
 Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojileri takip etmeyi severim. Her projede hem teknik mükemmeliyet hem de estetik ve kullanılabilirlik açısından yüksek standartlara ulaşmayı hedeflerim.
@@ -22,27 +24,57 @@ Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojile
 
 ---
 
-## 💻 Kullandığım Teknolojiler / Technologies I Work With
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF69B4&width=600&lines=🌈+💻+Kullandığım+Teknolojiler+%2F+Technologies+I+Work+With" alt="Technologies Typing"/>
+</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="AngularJS"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Projelerim / Selected Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00BFFF&width=600&lines=🚀+Projelerim+%2F+Selected+Projects" alt="Projelerim Typing"/>
+</p>
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
@@ -56,7 +88,9 @@ Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojile
 
 ---
 
-## 📸 Screenshots & Canlı Demolar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF4500&width=600&lines=📸+Screenshots+%26+Canlı+Demolar" alt="Screenshots Typing"/>
+</p>
 
 - **Champions League Simulation**  
   <!-- Buraya görsel ekle -->
@@ -80,7 +114,9 @@ Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojile
 
 ---
 
-## 📝 Teknik Yazı & Öğrenme
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF7F&width=600&lines=📝+Teknik+Yaz%C4%B1+%26+%C3%96%C4%9Frenme" alt="Öğrenme Typing"/>
+</p>
 
 Şu anda **Yapay Zeka (AI) ve Makine Öğrenmesi (ML)** alanında kendimi geliştirmekteyim.  
 Python, TensorFlow ve PyTorch gibi frameworkler ile **derin öğrenme**, **doğal dil işleme** ve **görüntü işleme** konularında araştırmalar yapıyorum.  
@@ -92,7 +128,9 @@ Python, TensorFlow ve PyTorch gibi frameworkler ile **derin öğrenme**, **doğa
 
 ---
 
-## 📊 İstatistikler / GitHub & LeetCode
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FFD700&width=600&lines=📊+İstatistikler+%2F+GitHub+%26+LeetCode" alt="İstatistikler Typing"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight" height="150"/>
@@ -105,11 +143,13 @@ Python, TensorFlow ve PyTorch gibi frameworkler ile **derin öğrenme**, **doğa
 
 ---
 
-## 📬 İletişim / Contact
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=1E90FF&width=600&lines=📬+İletişim+%2F+Contact" alt="İletişim Typing"/>
+</p>
 
 - 📍 Konum: Trabzon, Türkiye  
 - ✉️ E-posta: **alitekce1903@gmail.com**  
-- 🌐 Web Sitesi: [alitekce2005.github.io](https://alitekce2005.github.io/alitekce/)  
+- 🌐 Web Sitesi: [alitekce2005.github.io](https://alitekce2005.github.io/)  
 - 🔗 LinkedIn: *(profil linki eklenebilir)*  
 - 🐦 Twitter: [@alitekce2005](https://x.com/alitekce2005?t=0wnbDM1N4Uyp_NXe9349TA&s=09)  
 - ⚡ Instagram: [@jk7_tkcali](https://www.instagram.com/jk7_tkcali/)
