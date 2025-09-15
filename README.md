@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/profile-banner.png" alt="Ali TEKÇE Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
 </p>
 
 # 👋 Merhaba, Ben Ali TEKÇE
@@ -93,23 +93,23 @@ Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojile
 </p>
 
 - **Champions League Simulation**  
-  <!-- Buraya görsel ekle -->
+  ![Champions League Simulation](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions.png)  
   [Canlı Demo](https://alitekce2005.github.io/champions_league_new.github.io/)
 
 - **Terazi Oyunu**  
-  <!-- Buraya görsel ekle -->
+  ![Terazi Oyunu](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/terazi.png)  
   [Canlı Demo](https://alitekce2005.github.io/terazi_oyunu.github.io/)
 
 - **Sayı Tahmin Challenge**  
-  <!-- Buraya görsel ekle -->
+  ![Sayı Tahmin Challenge](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/sayi_tahmin.png)  
   [Canlı Demo](https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/)
 
 - **Taş-Kağıt-Makas**  
-  <!-- Buraya görsel ekle -->
+  ![Taş-Kağıt-Makas](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/tas_kagit_makas.png)  
   [Canlı Demo](https://alitekce2005.github.io/tas-kagit-makas.github.io/)
 
 - **Champions League Game**  
-  <!-- Buraya görsel ekle -->
+  ![Champions League Game](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions_game.png)  
   [Canlı Demo](https://alitekce2005.github.io/champions_league.github.io/)
 
 ---
@@ -119,7 +119,7 @@ Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojile
 </p>
 
 Şu anda **Yapay Zeka (AI) ve Makine Öğrenmesi (ML)** alanında kendimi geliştirmekteyim.  
-Python, TensorFlow ve PyTorch gibi frameworkler ile **derin öğrenme**, **doğal dil işleme** ve **görüntü işleme** konularında araştırmalar yapıyorum.  
+Python, TensorFlow ve PyTorch ile **derin öğrenme**, **doğal dil işleme** ve **görüntü işleme** çalışmaları yapıyorum.  
 
 🎯 Hedefim:  
 - Kendi yapay zeka modellerimi geliştirmek  
@@ -144,12 +144,4 @@ Python, TensorFlow ve PyTorch gibi frameworkler ile **derin öğrenme**, **doğa
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=1E90FF&width=600&lines=📬+İletişim+%2F+Contact" alt="İletişim Typing"/>
-</p>
-
-- 📍 Konum: Trabzon, Türkiye  
-- ✉️ E-posta: **alitekce1903@gmail.com**  
-- 🌐 Web Sitesi: [alitekce2005.github.io](https://alitekce2005.github.io/)  
-- 🔗 LinkedIn: *(profil linki eklenebilir)*  
-- 🐦 Twitter: [@alitekce2005](https://x.com/alitekce2005?t=0wnbDM1N4Uyp_NXe9349TA&s=09)  
-- ⚡ Instagram: [@jk7_tkcali](https://www.instagram.com/jk7_tkcali/)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=
