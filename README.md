@@ -1,4 +1,3 @@
-=======
 <p align="center">
   <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
 </p>
