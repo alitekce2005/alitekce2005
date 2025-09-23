@@ -2,22 +2,40 @@
   <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
 </p>
 
-<h1 align="center">👋 Merhaba, Ben Ali TEKÇE</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Merhaba,+Ben+Ali+TEKÇE;🚀+Software+Developer;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <strong>Yazılım Geliştirme Öğrencisi | Full-Stack & Mobil Uygulama Geliştiricisi | AI & ML Tutkunu</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Yazılım+Geliştirme+Öğrencisi+%7C+KTÜ+2.+Sınıf;Full-Stack+%26+Mobil+Uygulama+Geliştiricisi;AI+%26+ML+Tutkunu+%7C+Sürekli+Öğrenen" alt="Subtitle Typing"/>
 </p>
 
 <p align="center">
-  <a href="https://alitekce.com.tr/">🌐 Web Sitesi</a> •
-  <a href="mailto:alitekce2005@gmail.com">📧 İletişim</a> •
-  <a href="https://leetcode.com/ACUNMEDYA/">💻 LeetCode</a> •
-  <a href="https://linkedin.com/in/alitekce/">💼 LinkedIn</a>
+  <a href="https://alitekce.com.tr/" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐%20Web%20Sitesi-FF4081?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="mailto:alitekce2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-📧%20İletişim-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://leetcode.com/ACUNMEDYA/" target="_blank">
+    <img src="https://img.shields.io/badge/-💻%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/alitekce/" target="_blank">
+    <img src="https://img.shields.io/badge/-💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
-## 🧑‍💼 Hakkımda
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=🧑‍💼+Hakkımda+%2F+About+Me" alt="About Me"/>
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirme bölümünde 2. sınıf öğrencisiyim. Yazılım dünyasında öğrenmeye ve üretmeye büyük bir tutkuyla bağlıyım.
 
@@ -26,42 +44,52 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 - Modern teknolojileri takip etmek ve uygulamak
 - Yapay zeka ve makine öğrenimi alanında uzmanlaşmak
 
-📊 **Tecrübelerim:**
-- **3+ yıl** yazılım geliştirme deneyimi
-- **25+** farklı proje tamamladım
-- **10+** teknoloji ve dil ile çalıştım
-- **%99** kullanıcı memnuniyeti
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 Rakamlarla Ben:
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=⏳+3%2B+yıl+yazılım+geliştirme+deneyimi;🚀+25%2B+farklı+proje+tamamladım;💻+10%2B+teknoloji+ve+dil+ile+çalıştım;😊+%2599+kullanıcı+memnuniyeti" alt="Statistics Typing"/>
+</p>
 
 ---
 
-## 🚀 Teknolojiler & Araçlar
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🚀+Teknolojiler+%26+Araçlar" alt="Tech Stack"/>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 💻 Programlama Dilleri:
 <p align="center">
-  <!-- Programlama Dilleri -->
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"/>
 </p>
 
+### 🌐 Web Teknolojileri:
 <p align="center">
-  <!-- Web Teknolojileri -->
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=000000"/>
 </p>
 
+### 🛠️ Araçlar & Diğer:
 <p align="center">
-  <!-- Araçlar & Diğer -->
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=333333"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000"/>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=javascript%2Cjavascript%2Cauto%3Bpython%2Cpython%2Cauto%3Bcplusplus%2Cc%2B%2B%2Cauto%3B&line2=html5%2Chtml5%2Cauto%3Bcss3%2Ccss3%2Cauto%3Bmysql%2Cmysql%2Cauto%3B&line3=git%2Cgit%2Cauto%3Bvscode%2Cvs+code%2Cauto%3Bunity%2Cunity%2Cauto%3B"/>
+</div>
 
 ---
 
@@ -128,19 +156,30 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 
 ---
 
-## 🤖 Yapay Zeka & Makine Öğrenmesi
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🤖+Yapay+Zeka+%26+Makine+Öğrenmesi" alt="AI ML"/>
+</div>
 
+<img align="left" alt="AI" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+<div align="right">
+  
 Şu anda **AI/ML** alanında aktif olarak kendimi geliştiriyorum:
 
 - 🧠 **Derin Öğrenme**: TensorFlow ve PyTorch ile model geliştirme
-- 🔤 **Doğal Dil İşleme**: Metin analizi ve dil modelleri
+- 🔤 **Doğal Dil İşleme**: Metin analizi ve dil modelleri  
 - 👁️ **Bilgisayarla Görme**: Görüntü işleme ve nesne tanıma
 - 💡 **Öneri Sistemleri**: Kişiselleştirilmiş içerik önerme algoritmaları
 
-### 🎯 Gelecek Hedeflerim:
-- Kendi yapay zeka modellerimi geliştirmek
-- Gerçek dünya problemlerine AI çözümleri üretmek
-- Büyük dil modelleri üzerinde araştırma yapmak
+</div>
+
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=🎯+Kendi+yapay+zeka+modellerimi+geliştirmek;🌍+Gerçek+dünya+problemlerine+AI+çözümleri+üretmek;📚+Büyük+dil+modelleri+üzerinde+araştırma+yapmak;🚀+AI+ile+insanlığa+faydalı+olmak" alt="AI Goals"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -209,5 +248,9 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Kodlayarak+öğreniyor,+öğrenerek+gelişiyorum!;Her+gün+yeni+bir+şey+öğrenmeye+açığım;Birlikte+harika+projeler+geliştirelim!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=⚡+Kodlayarak+öğreniyor,+öğrenerek+gelişiyorum!;🌟+Her+gün+yeni+bir+şey+öğrenmeye+açığım;🤝+Birlikte+harika+projeler+geliştirelim!;🚀+Yazılımla+geleceği+şekillendiriyorum!" alt="Final Typing Animation"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
