@@ -186,10 +186,6 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏆 LeetCode Profili
