@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Merhaba,+Ben+Ali+TEKÇE;🚀+Software+Developer;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
