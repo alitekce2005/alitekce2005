@@ -2,147 +2,212 @@
   <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
 </p>
 
-# 👋 Merhaba, Ben Ali TEKÇE
-
-<div align="center">
-  Yazılım Geliştirme öğrencisi | Full-Stack & Mobil Uygulama Geliştiricisi | Yapay Zeka & Makine Öğrenimi tutkunuyum  
-</div>
-
----
+<h1 align="center">👋 Merhaba, Ben Ali TEKÇE</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF00&width=600&lines=🧑‍💼+Hakkımda+%2F+About+Me" alt="Hakkımda Typing"/>
-</p>
-
-Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirme bölümünde 2. sınıf öğrencisiyim. Yazılım dünyasında öğrenmeye ve üretmeye büyük bir tutkuyla bağlıyım.  
-Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmayı, modern teknolojileri takip etmeyi severim. Her projede hem teknik mükemmeliyet hem de estetik ve kullanılabilirlik açısından yüksek standartlara ulaşmayı hedeflerim.
-
-- Tecrübe: ~ **3+ yıl** yazılım geliştirme  
-- Projeler: **25+** farklı proje deneyimi  
-- Teknolojiler: **10+** ana dil/teknoloji ile çalışmalar  
-- Memnuniyet: Projelerimde %99’a varan kullanıcı/müşteri memnuniyeti  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF69B4&width=600&lines=🌈+💻+Kullandığım+Teknolojiler+%2F+Technologies+I+Work+With" alt="Technologies Typing"/>
+  <strong>Yazılım Geliştirme Öğrencisi | Full-Stack & Mobil Uygulama Geliştiricisi | AI & ML Tutkunu</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="AngularJS"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  </a>
+  <a href="https://alitekce.com.tr/">🌐 Web Sitesi</a> •
+  <a href="mailto:alitekce2005@gmail.com">📧 İletişim</a> •
+  <a href="https://leetcode.com/ACUNMEDYA/">💻 LeetCode</a> •
+  <a href="https://linkedin.com/in/alitekce/">💼 LinkedIn</a>
 </p>
 
 ---
 
+## 🧑‍💼 Hakkımda
+
+Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirme bölümünde 2. sınıf öğrencisiyim. Yazılım dünyasında öğrenmeye ve üretmeye büyük bir tutkuyla bağlıyım.
+
+🎯 **Hedeflerim:**
+- Kullanıcı odaklı, temiz ve sürdürülebilir kod yazmak
+- Modern teknolojileri takip etmek ve uygulamak
+- Yapay zeka ve makine öğrenimi alanında uzmanlaşmak
+
+📊 **Tecrübelerim:**
+- **3+ yıl** yazılım geliştirme deneyimi
+- **25+** farklı proje tamamladım
+- **10+** teknoloji ve dil ile çalıştım
+- **%99** kullanıcı memnuniyeti
+
+---
+
+## 🚀 Teknolojiler & Araçlar
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00BFFF&width=600&lines=🚀+Projelerim+%2F+Selected+Projects" alt="Projelerim Typing"/>
+  <!-- Programlama Dilleri -->
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-| Proje | Açıklama | Teknolojiler |
-|---|---|---|
-| **Champions League Simulation** | UEFA Şampiyonlar Ligi’ni simüle eden futbol oyunu. | HTML, JavaScript, C++ |
-| **Terazi Oyunu** | Mantık ve denge prensipleriyle hazırlanmış interaktif oyun. | JavaScript, Front-end |
-| **Sayı Tahmin Challenge** | Gizli sayıyı tahmin etmeye dayalı oyun. | JavaScript, CSS |
-| **Taş-Kağıt-Makas** | Klasik oyun; hızlı ve basit arayüz. | HTML, CSS, JS |
-| **Inverse of 3×3 Matrix** | 3×3 matrisin tersini hesaplayan uygulama. | C# |
+<p align="center">
+  <!-- Web Teknolojileri -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+</p>
 
-> Daha fazlası için: [GitHub Profilim](https://github.com/alitekce2005)
+<p align="center">
+  <!-- Araçlar & Diğer -->
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 📁 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknolojiler | Durum |
+|-------|----------|-------------|--------|
+| **Champions League Simulation** | UEFA Şampiyonlar Ligi'ni simüle eden interaktif futbol oyunu | HTML, CSS, JavaScript | ✅ Tamamlandı |
+| **Terazi Oyunu** | Mantık ve denge prensipleriyle hazırlanmış eğitici oyun | JavaScript, CSS3 | ✅ Tamamlandı |
+| **Sayı Tahmin Challenge** | Gizli sayıyı tahmin etme oyunu | JavaScript, HTML5 | ✅ Tamamlandı |
+| **Taş-Kağıt-Makas** | Klasik oyunun modern web versiyonu | HTML, CSS, JS | ✅ Tamamlandı |
+| **Matrix Inverse Calculator** | 3×3 matrisin tersini hesaplayan masaüstü uygulaması | C#, WinForms | ✅ Tamamlandı |
+
+---
+
+## 🎮 Canlı Demolar
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>🏆 Champions League Simulation</h3>
+      <a href="https://alitekce2005.github.io/champions_league_new.github.io/">
+        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions.png" width="250"/>
+      </a>
+      <br/>
+      <a href="https://alitekce2005.github.io/champions_league_new.github.io/">
+        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>⚖️ Terazi Oyunu</h3>
+      <a href="https://alitekce2005.github.io/terazi_oyunu.github.io/">
+        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/terazi.png" width="250"/>
+      </a>
+      <br/>
+      <a href="https://alitekce2005.github.io/terazi_oyunu.github.io/">
+        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <h3>🔢 Sayı Tahmin Challenge</h3>
+      <a href="https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/">
+        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/sayi_tahmin.png" width="250"/>
+      </a>
+      <br/>
+      <a href="https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/">
+        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h3>✂️ Taş-Kağıt-Makas</h3>
+      <a href="https://alitekce2005.github.io/tas-kagit-makas.github.io/">
+        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/tas_kagit_makas.png" width="250"/>
+      </a>
+      <br/>
+      <a href="https://alitekce2005.github.io/tas-kagit-makas.github.io/">
+        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Yapay Zeka & Makine Öğrenmesi
+
+Şu anda **AI/ML** alanında aktif olarak kendimi geliştiriyorum:
+
+- 🧠 **Derin Öğrenme**: TensorFlow ve PyTorch ile model geliştirme
+- 🔤 **Doğal Dil İşleme**: Metin analizi ve dil modelleri
+- 👁️ **Bilgisayarla Görme**: Görüntü işleme ve nesne tanıma
+- 💡 **Öneri Sistemleri**: Kişiselleştirilmiş içerik önerme algoritmaları
+
+### 🎯 Gelecek Hedeflerim:
+- Kendi yapay zeka modellerimi geliştirmek
+- Gerçek dünya problemlerine AI çözümleri üretmek
+- Büyük dil modelleri üzerinde araştırma yapmak
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 LeetCode Profili
+
+<p align="center">
+  <a href="https://leetcode.com/ACUNMEDYA/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=ACUNMEDYA&theme=dark&animated=true" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+---
+
+## 🌟 Aktivite Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alitekce2005&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🎯 2025 Hedefleri
+
+- [ ] **Mobile App Development**: React Native/Flutter öğrenmek
+- [ ] **Cloud Computing**: AWS/Azure sertifikasyonları
+- [ ] **Machine Learning**: Kendi AI modellerimi deploy etmek
+- [ ] **Open Source**: Büyük projelere katkı sağlamak
+- [ ] **Technical Writing**: Blog yazıları ve teknik dokümantasyon
+
+---
+
+## 📫 İletişim & Sosyal Medya
+
+<p align="center">
+  <a href="https://alitekce.com.tr/">
+    <img src="https://img.shields.io/badge/-Web%20Sitesi-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:alitekce2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/alitekce/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/alitekce2005">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF4500&width=600&lines=📸+Screenshots+%26+Canlı+Demolar" alt="Screenshots Typing"/>
-</p>
-
-- **Champions League Simulation**  
-  ![Champions League Simulation](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions.png)  
-  [Canlı Demo](https://alitekce2005.github.io/champions_league_new.github.io/)
-
-- **Terazi Oyunu**  
-  ![Terazi Oyunu](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/terazi.png)  
-  [Canlı Demo](https://alitekce2005.github.io/terazi_oyunu.github.io/)
-
-- **Sayı Tahmin Challenge**  
-  ![Sayı Tahmin Challenge](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/sayi_tahmin.png)  
-  [Canlı Demo](https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/)
-
-- **Taş-Kağıt-Makas**  
-  ![Taş-Kağıt-Makas](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/tas_kagit_makas.png)  
-  [Canlı Demo](https://alitekce2005.github.io/tas-kagit-makas.github.io/)
-
-- **Champions League Game**  
-  ![Champions League Game](https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions_game.png)  
-  [Canlı Demo](https://alitekce2005.github.io/champions_league.github.io/)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF7F&width=600&lines=📝+Teknik+Yaz%C4%B1+%26+%C3%96%C4%9Frenme" alt="Öğrenme Typing"/>
-</p>
-
-Şu anda **Yapay Zeka (AI) ve Makine Öğrenmesi (ML)** alanında kendimi geliştirmekteyim.  
-Python, TensorFlow ve PyTorch ile **derin öğrenme**, **doğal dil işleme** ve **görüntü işleme** çalışmaları yapıyorum.  
-
-🎯 Hedefim:  
-- Kendi yapay zeka modellerimi geliştirmek  
-- Gerçek dünya problemlerine uygulanabilir çözümler üretmek  
-- Özellikle **öneri sistemleri, bilgisayarla görme** ve **büyük dil modelleri** üzerine çalışmak  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FFD700&width=600&lines=📊+İstatistikler+%2F+GitHub+%26+LeetCode" alt="İstatistikler Typing"/>
+  <img src="https://komarev.com/ghpvc/?username=alitekce2005&color=blueviolet&style=for-the-badge&label=PROFIL+GÖRÜNTÜLENME"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Kodlayarak+öğreniyor,+öğrenerek+gelişiyorum!;Her+gün+yeni+bir+şey+öğrenmeye+açığım;Birlikte+harika+projeler+geliştirelim!" alt="Typing Animation"/>
 </p>
-
-- 🏆 LeetCode: [ACUNMEDYA](https://leetcode.com/ACUNMEDYA/)  
-- 📈 LeetCode Rozet:  
-  ![LeetCode Rozet](https://leetcode-badge-showcase.vercel.app/api?username=ACUNMEDYA&animated=true&theme=dark)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=
->>>>>>> 4ffad5c7d248dcf405c15b7a0f76c97832186934
