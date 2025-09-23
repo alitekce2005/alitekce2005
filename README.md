@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/assets/profile.jpg" alt="Ali TEKÇE" width="150"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Merhaba,+Ben+Ali+TEKÇE;🚀+Software+Developer;💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
@@ -186,15 +190,69 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
-## 🏆 LeetCode Profili
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=💭+Yazılım+Felsefesi+%2F+Code+Philosophy" alt="Philosophy Title"/>
+</div>
 
-<p align="center">
-  <a href="https://leetcode.com/ACUNMEDYA/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=ACUNMEDYA&theme=dark&animated=true" alt="LeetCode Profile"/>
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&width=450&lines=🎯+%22Kod+yazmak+bir+sanattır%22;✨+%22Basit+olan+güzeldir%22;🚀+%22Sürekli+öğrenmek+büyümektir%22;💡+%22Her+hata+bir+öğrenme+fırsatıdır%22" alt="Philosophy Quotes 1"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=450&lines=🌟+%22Kullanıcı+deneyimi+önceliğimdir%22;🔧+%22Temiz+kod+geleceğe+yatırımdır%22;🤝+%22Işbirliği+başarının+anahtarıdır%22;⚡+%22Optimizasyon+bir+yaşam+biçimidir%22" alt="Philosophy Quotes 2"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+### 🎨 **Kod Yazma Prensibelerim:**
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=200&lines=🎯+KISS;Keep+It;Simple+Stupid" alt="KISS"/>
+  <br/>
+  <sub><b>Basitlik</b><br/>Karmaşık çözümler yerine basit ve anlaşılır kod</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=FF9A56&center=true&vCenter=true&width=200&lines=♻️+DRY;Don't+Repeat;Yourself" alt="DRY"/>
+  <br/>
+  <sub><b>Tekrar Etme</b><br/>Her kod parçası tek bir yerde olmalı</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=4ECDC4&center=true&vCenter=true&width=200&lines=🔄+SOLID;Single;Responsibility" alt="SOLID"/>
+  <br/>
+  <sub><b>SOLID Prensipler</b><br/>Sürdürülebilir ve genişletilebilir kod</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=A8E6CF&center=true&vCenter=true&width=200&lines=🧪+TDD;Test+Driven;Development" alt="TDD"/>
+  <br/>
+  <sub><b>Test Öncelikli</b><br/>Güvenilir kod için kapsamlı testler</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=2000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=💻+%22Yazılım+geliştirme+sadece+kod+yazmak+değil,+problem+çözmektir%22;🌱+%22En+iyi+kod,+gelecekteki+kendinin+anlayabileceği+koddur%22;🚀+%22Teknoloji+değişir,+temel+prensipler+kalıcıdır%22" alt="Deep Philosophy"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
