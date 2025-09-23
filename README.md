@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/ACUNMEDYA/" target="_blank">
     <img src="https://img.shields.io/badge/-💻%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="https://linkedin.com/in/alitekce/" target="_blank">
+  <a href="www.linkedin.com/in/altek2005" target="_blank">
     <img src="https://img.shields.io/badge/-💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
 </p>
