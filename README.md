@@ -262,9 +262,9 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 
 ## 🎯 2025 Hedefleri
 
-- [ ] **Mobile App Development**: React Native/Flutter öğrenmek
-- [ ] **Cloud Computing**: AWS/Azure sertifikasyonları
 - [ ] **Machine Learning**: Kendi AI modellerimi deploy etmek
+- [ ] **Mobile App Development**: Kotlin/Flutter öğrenmek
+- [ ] **Cloud Computing**: AWS/Azure sertifikasyonları
 - [ ] **Open Source**: Büyük projelere katkı sağlamak
 - [ ] **Technical Writing**: Blog yazıları ve teknik dokümantasyon
 
