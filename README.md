@@ -83,13 +83,9 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=javascript%2Cjavascript%2Cauto%3Bpython%2Cpython%2Cauto%3Bcplusplus%2Cc%2B%2B%2Cauto%3B&line2=html5%2Chtml5%2Cauto%3Bcss3%2Ccss3%2Cauto%3Bmysql%2Cmysql%2Cauto%3B&line3=git%2Cgit%2Cauto%3Bvscode%2Cvs+code%2Cauto%3Bunity%2Cunity%2Cauto%3B"/>
-</div>
-
 ---
 
-## 📁 Öne Çıkan Projeler
+## 📁 Öne Çıkan Projeler (Manuel)
 
 | Proje | Açıklama | Teknolojiler | Durum |
 |-------|----------|-------------|--------|
@@ -101,54 +97,18 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 
 ---
 
-## 🎮 Canlı Demolar
+## 🚀 Son Aktivitelerim (Otomatik Güncellenir)
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <h3>🏆 Champions League Simulation</h3>
-      <a href="https://alitekce2005.github.io/champions_league_new.github.io/">
-        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/champions.png" width="250"/>
-      </a>
-      <br/>
-      <a href="https://alitekce2005.github.io/champions_league_new.github.io/">
-        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="300">
-      <h3>⚖️ Terazi Oyunu</h3>
-      <a href="https://alitekce2005.github.io/terazi_oyunu.github.io/">
-        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/terazi.png" width="250"/>
-      </a>
-      <br/>
-      <a href="https://alitekce2005.github.io/terazi_oyunu.github.io/">
-        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <h3>🔢 Sayı Tahmin Challenge</h3>
-      <a href="https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/">
-        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/sayi_tahmin.png" width="250"/>
-      </a>
-      <br/>
-      <a href="https://alitekce2005.github.io/Sayi_Tahmin_Challenge.github.io/">
-        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="300">
-      <h3>✂️ Taş-Kağıt-Makas</h3>
-      <a href="https://alitekce2005.github.io/tas-kagit-makas.github.io/">
-        <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/main/projects/tas_kagit_makas.png" width="250"/>
-      </a>
-      <br/>
-      <a href="https://alitekce2005.github.io/tas-kagit-makas.github.io/">
-        <img src="https://img.shields.io/badge/-Canlı%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+## 📊 GitHub İstatistikleri (Otomatik Güncellenir)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show_pins=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true&exclude_lang=html,css,scss" />
+</p>
 
 ---
 
@@ -179,19 +139,6 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=💭+Yazılım+Felsefesi+%2F+Code+Philosophy" alt="Philosophy Title"/>
 </div>
@@ -214,49 +161,16 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/alitekce2005/alitekce2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-### 🎨 **Kod Yazma Prensibelerim:**
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=200&lines=🎯+KISS;Keep+It;Simple+Stupid" alt="KISS"/>
-  <br/>
-  <sub><b>Basitlik</b><br/>Karmaşık çözümler yerine basit ve anlaşılır kod</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=FF9A56&center=true&vCenter=true&width=200&lines=♻️+DRY;Don't+Repeat;Yourself" alt="DRY"/>
-  <br/>
-  <sub><b>Tekrar Etme</b><br/>Her kod parçası tek bir yerde olmalı</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=4ECDC4&center=true&vCenter=true&width=200&lines=🔄+SOLID;Single;Responsibility" alt="SOLID"/>
-  <br/>
-  <sub><b>SOLID Prensipler</b><br/>Sürdürülebilir ve genişletilebilir kod</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=3000&pause=1500&color=A8E6CF&center=true&vCenter=true&width=200&lines=🧪+TDD;Test+Driven;Development" alt="TDD"/>
-  <br/>
-  <sub><b>Test Öncelikli</b><br/>Güvenilir kod için kapsamlı testler</sub>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=2000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=💻+%22Yazılım+geliştirme+sadece+kod+yazmak+değil,+problem+çözmektir%22;🌱+%22En+iyi+kod,+gelecekteki+kendinin+anlayabileceği+koddur%22;🚀+%22Teknoloji+değişir,+temel+prensipler+kalıcıdır%22" alt="Deep Philosophy"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🌟 Aktivite Grafiği
+## 🌟 Aktivite Grafiği (Otomatik Güncellenir)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alitekce2005&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+p>
 
 ---
 
