@@ -187,7 +187,7 @@ Merhaba! Ben **Ali TEKÇE**, Karadeniz Teknik Üniversitesi Yazılım Geliştirm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alitekce2005&theme=tokyonight" alt="Ali Tekçe'nin GitHub Profil Özeti"/>
 </p>
 
 ---
