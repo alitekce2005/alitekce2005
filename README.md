@@ -156,21 +156,18 @@ Veri setleri oluşturmaktan model mimarisi tasarlamaya, fine-tuning işlemlerind
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=📊+GitHub+İstatistikleri" alt="Stats Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=📊+Çalışma+İstatistikleri" alt="Stats Title"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alitekce2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alitekce2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitekce2005&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alitekce2005&theme=tokyonight" alt="Ali Tekçe'nin GitHub Profil Özeti"/>
-</div>
 
 ---
 
