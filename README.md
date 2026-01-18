@@ -32,17 +32,19 @@
 
 Merhaba! Ben **Ali TEKÇE**, **Karadeniz Teknik Üniversitesi (KTÜ)** Yazılım Geliştirme öğrencisiyim.
 
-Yazılım dünyasında **Yapay Zeka**, **Makine Öğrenmesi (Machine Learning)** ve **Model Eğitimi** alanlarında aktif olarak çalışmalar yürütüyorum. Karmaşık problemleri çözmek için modern algoritmalar geliştirmeyi ve veriyi anlamlı projelere dönüştürmeyi seviyorum.
+Sadece kod yazan değil, **öğrenen ve düşünen sistemler inşa eden** bir geliştiriciyim. Yazılım dünyasındaki yolculuğumda odağımı **Yapay Zeka** ve **Makine Öğrenmesi** teknolojilerine çevirdim. Teorik bilginin ötesine geçerek, **aktif olarak sürekli yeni AI modelleri eğitiyor, mevcut modelleri optimize ediyor ve gerçek dünya senaryolarına uyguluyorum.**
+
+Veri setleri oluşturmaktan model mimarisi tasarlamaya, fine-tuning işlemlerinden deployment süreçlerine kadar yapay zeka yaşam döngüsünün her aşamasında aktif rol alıyorum. Amacım, karmaşık problemleri modern algoritmalarla çözmek ve geleceğin teknolojilerine bugünden yön vermek.
 
 🎯 **Odak Noktam:**
-- 🧠 **Derin Öğrenme & AI:** TensorFlow ve PyTorch ile model geliştirme.
-- 🌐 **Web Teknolojileri:** React, Firebase ve Modern Frontend mimarileri.
-- 🚀 **Üretkenlik:** İnsanlığa faydalı, çalışan ve yaşayan projeler üretmek.
+- 🧠 **Sürekli Model Geliştirme:** Kendi veri setlerimle özelleştirilmiş modeller eğitmek.
+- 📉 **Veri Analizi & İşleme:** Ham veriyi anlamlı içgörülere dönüştürmek.
+- 🛠️ **Sistem Mimarisi:** Ölçeklenebilir ve performanslı backend yapıları kurmak.
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=⏳+3%2B+yıl+yazılım+geliştirme+deneyimi;🚀+10%2B+büyük+proje+tamamladım;💻+Modern+teknolojilerle+çalışıyorum" alt="Statistics Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=⏳+3%2B+yıl+yazılım+geliştirme+deneyimi;🤖+Aktif+olarak+model+eğitimi+yapıyorum;💻+Modern+teknolojilerle+çalışıyorum" alt="Statistics Typing"/>
 </div>
 
 ---
@@ -55,6 +57,7 @@ Yazılım dünyasında **Yapay Zeka**, **Makine Öğrenmesi (Machine Learning)**
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
@@ -64,8 +67,8 @@ Yazılım dünyasında **Yapay Zeka**, **Makine Öğrenmesi (Machine Learning)**
 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-UML-FFB13B?style=for-the-badge&logo=uml&logoColor=black&labelColor=000000"/>
   
   <br><br>
 
